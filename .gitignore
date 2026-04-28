@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# Playwright
+test-results/
+playwright-report/
+report.html
+
+# PyCharm
+.idea/
+
+# Environment
+.env
